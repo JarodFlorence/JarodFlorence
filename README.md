@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # Jarod Florence 👨‍💻
 
-Senior Full-Stack Developer | React | Node | Ruby on Rails | Go | Python | C#/.NET
+Senior Software Engineer | React | Node | Ruby | Go | Python | C# | .NET
+
+😄 Pronouns: He/Him
 
 Hello there! 👋 I am Jarod, a highly motivated, passionate, and accomplished Senior Full-Stack Developer with over 10 years of experience in the industry. Over the course of my career, I've worked with a multitude of technologies, specialising in creating performant and user-friendly web applications using modern technologies.
 
